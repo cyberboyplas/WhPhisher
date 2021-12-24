@@ -1,5 +1,6 @@
 # WhPhisher
-WhPhisher es una herramienta de Phishing 
+Herramienta para hacer phishing con muchos
+métodos de túneling
 -----Como Instalarlo-------
 1. pkg install python3
 2. pkg install git

@@ -38,6 +38,8 @@ ssh -R 80:localhost:8080 nokey@localhost.run
 Compartir el link que se generó
 
 # Como debería de quedar
+- Lo verde tapa información personal 
+- La flecha amarilla apunta al link que hay que compartir
 
 [![Pics-Art-12-28-12-04-12.jpg](https://i.postimg.cc/Dw0djMxM/Pics-Art-12-28-12-04-12.jpg)](https://postimg.cc/yDqZWv4m)
 

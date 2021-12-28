@@ -19,5 +19,4 @@ python3 whphisher.py
 #Probado en:
 Termux, Kali Linux y devian
 
-https://raw.githubusercontent.com/WhBeatZ/WhPhisher/README.md/foto.jpg
-
+[![Screenshot-20211228-113217.png](https://i.postimg.cc/zf6sY5Zz/Screenshot-20211228-113217.png)](https://postimg.cc/06GW7TyF)

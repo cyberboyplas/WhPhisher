@@ -23,7 +23,7 @@ python3 whphisher.py
 
 Elegir la página y esperar a que inicie el túneling.
 
-#Solucion si no sale el link
+#Solucion_si_no_se_genera_link
 Pasos:
 
 Abrimos nueva sesión

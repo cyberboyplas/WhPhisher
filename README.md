@@ -23,7 +23,8 @@ python3 whphisher.py
 
 Elegir la página y esperar a que inicie el túneling.
 
-#---- Importante ----
+#SolucionLink
+
 Pasos:
 
 Abrimos nueva sesión

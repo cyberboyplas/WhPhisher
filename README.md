@@ -51,6 +51,10 @@ El link que le enviaste a la victima:
 
 Cuando la víctima pone sus credenciales, nos llegan en la terminal:
 
+[![Screenshot-20211228-121119.png](https://i.postimg.cc/mg6DjdnV/Screenshot-20211228-121119.png)](https://postimg.cc/nXBpc1pQ)
+
+
+
 
 
 

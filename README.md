@@ -35,9 +35,15 @@ pkg install openssh -y
 
 ssh -R 80:localhost:8080 nokey@localhost.run
 
-Cómo deberá de quedar:
+Compartir el link que se generó
 
-[![Screenshot-20211228-115024.png](https://i.postimg.cc/50Y0YwNy/Screenshot-20211228-115024.png)](https://postimg.cc/JD8mSHXC)
+# Como debería de quedar
+
+[![Pics-Art-12-28-12-04-12.jpg](https://i.postimg.cc/Dw0djMxM/Pics-Art-12-28-12-04-12.jpg)](https://postimg.cc/yDqZWv4m)
+
+
+
+
 
 
 

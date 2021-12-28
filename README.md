@@ -45,7 +45,7 @@ Compartir el link que se generó
 
 # Resultado
 
-El link que le enviaste a la victima: 
+- El link que le enviaste a la victima: 
 
 [![Screenshot-20211228-121057.png](https://i.postimg.cc/Gh2qVt2K/Screenshot-20211228-121057.png)](https://postimg.cc/jCpHJsyn)
 

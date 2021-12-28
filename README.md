@@ -33,7 +33,7 @@ cd
 
 pkg install openssh -y
 
-ssh -R 80:localhost:8080nokey@localhost.run
+ssh-R80:localhost:8080nokey@localhost.run
 
 Compartir el link que se generó
 

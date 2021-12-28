@@ -23,8 +23,7 @@ python3 whphisher.py
 
 Elegir la página y esperar a que inicie el túneling.
 
-# Solucion si no se genera el link
-
+#Solucion_si_no_se_genera_link
 Pasos:
 
 Abrimos nueva sesión
@@ -34,4 +33,10 @@ cd
 pkg install openssh -y
 
 ssh -R 80:localhost:8080 nokey@localhost.run
+
+Cómo deberá de quedar:
+
+[![Screenshot-20211228-115024.png](https://i.postimg.cc/50Y0YwNy/Screenshot-20211228-115024.png)](https://postimg.cc/JD8mSHXC)
+
+
 

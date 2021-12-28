@@ -43,6 +43,15 @@ Compartir el link que se generó
 
 [![Pics-Art-12-28-12-04-12.jpg](https://i.postimg.cc/Dw0djMxM/Pics-Art-12-28-12-04-12.jpg)](https://postimg.cc/yDqZWv4m)
 
+# Resultado
+
+El link que le enviaste a la victima: 
+
+[![Screenshot-20211228-121057.png](https://i.postimg.cc/Gh2qVt2K/Screenshot-20211228-121057.png)](https://postimg.cc/jCpHJsyn)
+
+Cuando la víctima pone sus credenciales, nos llegan en la terminal:
+
+
 
 
 

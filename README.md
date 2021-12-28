@@ -11,7 +11,7 @@ pkg install python3
 
 pkg install git
 
-git clone https://github/WhBeatZ/WhPhisher
+git clone https://github.com/WhBeatZ/WhPhisher
 
 cd WhPhisher
 

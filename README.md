@@ -2,7 +2,10 @@
 Herramienta para hacer phishing con muchos
 métodos de túneling
 
------Como Instalarlo-------
+# Probado en:
+Termux, Kali Linux y devian
+
+# Como instalar
 
 pkg install python3
 
@@ -16,7 +19,18 @@ chmod +x *
 
 python3 whphisher.py
 
-#Probado en:
-Termux, Kali Linux y devian
-
 [![Screenshot-20211228-113217.png](https://i.postimg.cc/zf6sY5Zz/Screenshot-20211228-113217.png)](https://postimg.cc/06GW7TyF)
+
+Elegir la página y esperar a que inicie el túneling.
+
+#Solucion si no sale el link
+Pasos:
+
+Abrimos nueva sesión
+
+cd
+
+pkg install openssh -y
+
+ssh -R 80:localhost:8080 nokey@localhost.run
+

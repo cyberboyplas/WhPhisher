@@ -27,7 +27,7 @@ Elegir la página y esperar a que inicie el túneling.
 
 Pasos:
 
-Abrimos nueva sesión
+`Abrimos nueva sesión`
 
 `cd`
 

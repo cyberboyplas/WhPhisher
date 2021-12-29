@@ -49,7 +49,7 @@ Compartir el link que se generó
 
 - El link que le enviaste a la victima: 
 
-[![Screenshot-20211228-121057.png](https://i.postimg.cc/Gh2qVt2K/Screenshot-20211228-121057.png)](https://postimg.cc/jCpHJsyn)
+[![chrome-NQpwa-Yi-Wxc.png](https://i.postimg.cc/mrxzN5JH/chrome-NQpwa-Yi-Wxc.png)](https://postimg.cc/k2cg7fnJ)
 
 Cuando la víctima pone sus credenciales, nos llegan en la terminal:
 

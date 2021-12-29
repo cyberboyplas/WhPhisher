@@ -9,15 +9,15 @@ Termux, Kali Linux y devian
 
 `pkg install python3`
 
-pkg install git
+`pkg install git`
 
-git clone https://github.com/WhBeatZ/WhPhisher
+`git clone https://github.com/WhBeatZ/WhPhisher`
 
-cd WhPhisher
+`cd WhPhisher`
 
-chmod +x *
+`chmod +x *`
 
-python3 whphisher.py
+`python3 whphisher.py`
 
 [![Screenshot-20211228-113217.png](https://i.postimg.cc/zf6sY5Zz/Screenshot-20211228-113217.png)](https://postimg.cc/06GW7TyF)
 
@@ -29,11 +29,11 @@ Pasos:
 
 Abrimos nueva sesión
 
-cd
+`cd`
 
-pkg install openssh -y
+`pkg install openssh -y`
 
-*ssh -R 80:localhost:8080 nokey@localhost.run*
+`ssh -R 80:localhost:8080 nokey@localhost.run`
 
 Compartir el link que se generó
 
@@ -52,13 +52,5 @@ Compartir el link que se generó
 Cuando la víctima pone sus credenciales, nos llegan en la terminal:
 
 [![Screenshot-20211228-121119.png](https://i.postimg.cc/mg6DjdnV/Screenshot-20211228-121119.png)](https://postimg.cc/nXBpc1pQ)
-
-
-
-
-
-
-
-
 
 

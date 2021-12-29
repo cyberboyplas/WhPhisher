@@ -19,9 +19,11 @@ Termux, Kali Linux y devian
 
 `python3 whphisher.py`
 
-[![Screenshot-20211228-113217.png](https://i.postimg.cc/zf6sY5Zz/Screenshot-20211228-113217.png)](https://postimg.cc/06GW7TyF)
+[![Virtual-Box-VM-Dib-Vpuj-JG9.png](https://i.postimg.cc/K86wfbyL/Virtual-Box-VM-Dib-Vpuj-JG9.png)](https://postimg.cc/XrgsNTq7)
 
 Elegir la página y esperar a que inicie el túneling.
+
+[![Virtual-Box-VM-pqnlsb1ey-B.png](https://i.postimg.cc/gJJMyjfj/Virtual-Box-VM-pqnlsb1ey-B.png)](https://postimg.cc/mcvNBLZW)
 
 # Solucion si no se genera el link o no funciona
 
@@ -51,6 +53,6 @@ Compartir el link que se generó
 
 Cuando la víctima pone sus credenciales, nos llegan en la terminal:
 
-[![Screenshot-20211228-121119.png](https://i.postimg.cc/mg6DjdnV/Screenshot-20211228-121119.png)](https://postimg.cc/nXBpc1pQ)
+[![Virtual-Box-VM-t1m8-G0-J0-MQ.png](https://i.postimg.cc/wjj0Y7jV/Virtual-Box-VM-t1m8-G0-J0-MQ.png)](https://postimg.cc/4mjzz4t7)
 
 

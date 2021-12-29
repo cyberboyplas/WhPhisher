@@ -7,7 +7,7 @@ Termux, Kali Linux y devian
 
 # Como instalar
 
-`pkg install python3
+`pkg install python3`
 
 pkg install git
 

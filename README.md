@@ -7,9 +7,9 @@ Termux, Kali Linux y devian
 
 # Si no se hace este paso, no funcionará la herramienta
 
-Hay que instalar Termux API, la última versión
-`https://f-droid.org/repo/com.termux.api_50.apk`
+Hay que instalar Termux API, la última versión:
 
+https://f-droid.org/repo/com.termux.api_50.apk
 
 # Como instalar
 

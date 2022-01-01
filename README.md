@@ -3,7 +3,7 @@ Herramienta para hacer phishing con muchos
 métodos de túneling
 
 # Probado en:
-Termux, Kali Linux y devian
+Termux, Kali Linux y debian
 
 # Si no se hace este paso, no funcionará la herramienta
 

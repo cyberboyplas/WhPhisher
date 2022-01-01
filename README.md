@@ -5,7 +5,7 @@ métodos de túneling
 # Probado en:
 Termux, Kali Linux y debian
 
-# Si no se hace este paso, no funcionará la herramienta
+# Si no se hace este paso, no funcionará la herramienta (Solo en Termux)
 
 Hay que instalar Termux API, la última versión:
 

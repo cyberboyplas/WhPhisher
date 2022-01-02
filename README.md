@@ -5,23 +5,25 @@ métodos de túneling
 # Probado en:
 Termux, Kali Linux y debian
 
-# Si no se hace este paso, no funcionará la herramienta (Solo en Termux)
-
-Hay que instalar Termux API, la última versión:
-
-https://f-droid.org/repo/com.termux.api_50.apk
-
 # Como instalar
 
 `pkg install python3`
 
+`pkg install openssh`
+
 `pkg install git`
+
+`pkg update & apt upgrade`
+
+`pkg install tmux`
+
+`pkg install bash`
 
 `git clone https://github.com/WhBeatZ/WhPhisher`
 
 `cd WhPhisher`
 
-`chmod +x *`
+`chmod +x WhPhisher`
 
 `python3 whphisher.py`
 

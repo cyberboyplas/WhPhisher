@@ -39,7 +39,7 @@ bwhite="\033[1;37m"
 
 nc="\033[00m"
 
-version="1.0"
+version="1.1"
 
 ask = bgreen + '[' + bwhite + '-' + bgreen + '] '+ byellow
 success = byellow + '[' + bwhite + '√' + byellow + '] '+bgreen
@@ -244,7 +244,7 @@ def about():
     system("clear")
     slowprint(logo)
     print(bcyan+'[Nombre de la herramienta]  '+bpurple+' :[WhPhisher] ')
-    print(bcyan+'[Version]   '+bpurple+' :[1.0]')
+    print(bcyan+'[Version]   '+bpurple+' :[1.1]')
     print(bcyan+'[Author]    '+bpurple+' :[WhBeatZ] ')
     print(bcyan+'[Github]    '+bpurple+' :[https://github.com/WhBeatZ] ')
     print(bcyan+'[Instagram]  '+bpurple+' :[WhBeatZ]  ')

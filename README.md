@@ -23,9 +23,9 @@ Termux, Kali Linux y debian
 
 `cd WhPhisher`
 
-`chmod +x WhPhisher`
+`chmod +x WhPhisher.py`
 
-`python3 whphisher.py`
+`python3 WhPhisher.py`
 
 [![Virtual-Box-VM-Dib-Vpuj-JG9.png](https://i.postimg.cc/K86wfbyL/Virtual-Box-VM-Dib-Vpuj-JG9.png)](https://postimg.cc/XrgsNTq7)
 

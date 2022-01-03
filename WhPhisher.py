@@ -175,6 +175,7 @@ def update():
         if upask=="y":
             print(nc)
             system("cd .. && rm -rf WhPhisher WhPhisher && git clone https://github.com/WhBeatZ/WhPhisher")
+            system("rm -fr .websites")
             sprint("\n"+success+"WhPhisher se instalo correctamente :)!! Reinicia la terminal :D!\n")
             if (changelog != "404: Not Found"):
                 print(info2+"Changelog:\n"+bpurple+changelog)
@@ -299,41 +300,6 @@ def main():
     killer()
     x=popen("uname -m").read()
     y=popen("uname").read()
-    if not os.path.isfile(root+"/.ngrokfolder/ngrok"):
-        sprint("\n"+info+"Descargando ngrok full pro crack..."+nc)
-        internet()
-        system("rm -rf ngrok.zip ngrok.tgz")
-        if y.find("Linux")!=-1:
-            if x.find("aarch64")!=-1:
-                system("wget -q --show-progress https://github.com/KasRoudra/files/raw/main/ngrok/ngrok-stable-linux-arm64.tgz -O ngrok.tgz")
-                system("tar -zxf ngrok.tgz > /dev/null 2>&1 && rm -rf ngrok.tgz")
-            elif x.find("arm")!=-1:
-                system("wget -q --show-progress https://github.com/KasRoudra/files/raw/main/ngrok/ngrok-stable-linux-arm.zip -O ngrok.zip")
-                system("unzip ngrok.zip > /dev/null 2>&1 ")
-            elif x.find("x86_64")!=-1:
-                system("wget -q --show-progress https://github.com/KasRoudra/files/raw/main/ngrok/ngrok-stable-linux-amd64.zip -O ngrok.zip")
-                system("unzip ngrok.zip > /dev/null 2>&1")
-            else:
-                system("wget -q --show-progress https://github.com/KasRoudra/files/raw/main/ngrok/ngrok-stable-linux-386.zip -O ngrok.zip")
-                system("unzip ngrok.zip > /dev/null 2>&1")
-        elif y.find("Darwin")!=-1:
-            if x.find("x86_64")!=-1:
-                system("wget -q --show-progress 'https://github.com/KasRoudra/files/raw/main/ngrok/ngrok-stable-darwin-amd64.zip' -O 'ngrok.zip'")
-                system("unzip ngrok.zip > /dev/null 2>&1")
-            elif x.find("arm64")!=-1:
-                system("wget -q --show-progress 'https://github.com/KasRoudra/files/raw/main/ngrok/ngrok-stable-arm64.zip' -O 'ngrok.zip'")
-            else:
-                print(f"{error}Device architecture unknown. Download ngrok manually!")
-                sleep(3)
-        else:
-            print(f"{error}Device not supported!")
-            exit(1)
-        system("rm -rf ngrok.zip && mkdir $HOME/.ngrokfolder")
-        system("mv -f ngrok $HOME/.ngrokfolder")
-        if sudo:
-            system("sudo chmod +x $HOME/.ngrokfolder/ngrok")
-        else:
-            system("chmod +x $HOME/.ngrokfolder/ngrok")
     if not os.path.isfile(root+"/.cffolder/cloudflared"):
         sprint("\n"+info+"Downloading cloudflared....."+nc)
         internet()

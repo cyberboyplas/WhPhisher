@@ -171,7 +171,7 @@ def update():
         changelog=popen("curl -s -N https://raw.githubusercontent.com/WhBeatZ/WhPhisher/main/files/changelog.log").read()
         print(logo)
         print(f"{info}WhPhisher tiene una actualizacion!\n{info2}Current: {bred}{version}\n{info}Available: {bgreen}{git_ver}\n")
-        upask=input(ask+"Quieres actualizar WhPhisher (recomendado)[y/n] > "+bgreen)
+        upask=input(ask+"Quieres actualizar WhPhisher (recomendado) pulsa [y] para actualizar o [n] para cancelar> "+bgreen)
         if upask=="y":
             print(nc)
             system("cd .. && rm -rf WhPhisher WhPhisher && git clone https://github.com/WhBeatZ/WhPhisher")

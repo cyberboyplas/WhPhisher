@@ -1,6 +1,6 @@
 # WhPhisher
-Herramienta para hacer phishing con muchos
-métodos de túneling
+
+La mejor herramienta para hacer phishing con las páginas más famosas actualizadas.
 
 # Probado en:
 Termux, Kali Linux y debian

@@ -12,8 +12,7 @@ Para qué hayan menos probabilidades de que falle esta herramienta, se aconseja 
 Termux Última versión --> 
 https://f-droid.org/repo/com.termux_117.apk
 
-Termux API Última versión --> 
-https://f-droid.org/repo/com.termux.api_51.apk
+Termux API Última versión --> https://f-droid.org/repo/com.termux.api_51.apk
 
 
 # Como instalar

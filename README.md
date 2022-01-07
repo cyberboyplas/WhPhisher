@@ -5,7 +5,30 @@ La mejor herramienta para hacer phishing con las páginas más famosas actualiza
 # Probado en:
 Termux, Kali Linux y debian
 
+# Pasos
+
+Para qué hayan menos probabilidades de que falle esta herramienta, se aconseja instalar la última versión de Termux, y Termux API.
+
+Termux Última versión --> https://f-droid.org/repo/com.termux_117.apk
+
+Termux API Última versión --> https://f-droid.org/repo/com.termux.api_51.apk
+
+
 # Como instalar
+
+`pkg update`
+
+`pkg install proot`
+
+`pkg install curl`
+
+`pkg install python`
+
+`pkg install python2
+
+`pkg install pip`
+
+`pkg install ssh`
 
 `pkg install python3`
 
@@ -18,6 +41,8 @@ Termux, Kali Linux y debian
 `pkg install tmux`
 
 `pkg install bash`
+
+`pkg upgrade && update`
 
 `git clone https://github.com/WhBeatZ/WhPhisher`
 

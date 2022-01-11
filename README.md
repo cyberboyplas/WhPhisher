@@ -17,6 +17,7 @@ Termux API Última versión --> https://f-droid.org/repo/com.termux.api_51.apk
 
 # Como instalar
 
+
 `termux-setup-storage`
 
 `pkg update`

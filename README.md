@@ -30,8 +30,6 @@ Termux API Última versión --> https://f-droid.org/repo/com.termux.api_51.apk
 
 `pkg install python2`
 
-`pkg install pip`
-
 `pkg install ssh`
 
 `pkg install python3`

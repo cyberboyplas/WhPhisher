@@ -10,7 +10,7 @@ Termux, Kali Linux y debian
 Para qué hayan menos probabilidades de que falle esta herramienta, se aconseja instalar la última versión de Termux, y Termux API.
 
 Termux Última versión --> 
-https://f-droid.org/repo/com.termux_117.apk
+https://f-droid.org/repo/com.termux_118.apk
 
 Termux API Última versión --> https://f-droid.org/repo/com.termux.api_51.apk
 

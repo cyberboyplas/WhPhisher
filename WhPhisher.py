@@ -247,7 +247,7 @@ def about():
     system("clear")
     slowprint(logo)
     print(bcyan+'[Nombre de la herramienta]  '+bpurple+' :[WhPhisher] ')
-    print(bcyan+'[Version]   '+bpurple+' :[1.2]')
+    print(bcyan+'[Version]   '+bpurple+' :[1.3]')
     print(bcyan+'[Author]    '+bpurple+' :[WhBeatZ] ')
     print(bcyan+'[Github]    '+bpurple+' :[https://github.com/WhBeatZ] ')
     print(bcyan+'[Instagram] '+bpurple+' :[WhBeatZ]  ')

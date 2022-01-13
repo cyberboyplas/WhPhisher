@@ -30,19 +30,13 @@ Termux API Última versión --> https://f-droid.org/repo/com.termux.api_51.apk
 
 `pkg install python2`
 
-`pkg install ssh`
-
 `pkg install python3`
-
-`pkg install openssh`
 
 `pkg install git`
 
 `pkg update & apt upgrade`
 
 `pkg install tmux`
-
-`pkg install bash`
 
 `pkg upgrade && update`
 

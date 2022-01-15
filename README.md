@@ -2,14 +2,19 @@
 
 La mejor herramienta para hacer phishing con las páginas más famosas actualizadas.
 
+
 # Probado en:
+
 Termux, Kali Linux y debian
+
 
 # Pasos
 
 Para qué hayan menos probabilidades de que falle esta herramienta, se aconseja instalar la última versión de Termux, y Termux API.
 
-# Como instalar
+
+# -- Como instalar --
+
 
 `termux-setup-storage`
 

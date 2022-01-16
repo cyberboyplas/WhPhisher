@@ -61,24 +61,28 @@ Pero si no lo tiene, tiene que hacer estos pasos:
 
 Abrir nueva sesion
 
-Para solucionarlo, hay que tener previamente ngrok instalado en termux, si no lo tienes instalado mira un video de como instalar ngrok.
-Video explicativo como de instalar ngrok --> https://www.youtube.com/watch?v=HPNGs9HYLIM
+`git clone https://github.com/WhBeatZ/NgrokWh`
 
-Pasos para instalar ngrok:
+`cd NgrokWh`
 
-`cd`
+`chmod +x ngrokwh.sh`
 
-`git clone https://github.com/Darkmux/NgrokTH`
+`./ngrokwh.sh`
 
-`cd NgrokTH`
-
-`bash ngrok.sh`
+[![Screenshot-20220116-091839.png](https://i.postimg.cc/HW92dXc7/Screenshot-20220116-091839.png)](https://postimg.cc/3WWpZyZK)
 
 `y`
 
-Ahora hay que poner el autocken de tu cuenta de ngrok.com como se muestra en el video
+[![Screenshot-20220116-091856.png](https://i.postimg.cc/kGKQ8yVm/Screenshot-20220116-091856.png)](https://postimg.cc/V0s0PnBG)
 
 `ngrok http 8080`
+
+[![Screenshot-20220116-091939.png](https://i.postimg.cc/KvKRJy2v/Screenshot-20220116-091939.png)](https://postimg.cc/tYjq4wJL)
+
+Compartir el link que nos generó a la víctima
+
+
+
 
 `Y compartir el link que se generó :D`
 

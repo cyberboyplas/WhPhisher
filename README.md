@@ -59,7 +59,7 @@ Elegir la página y esperar a que inicie el túneling.
 Pero si no lo tiene, tiene que hacer estos pasos:
 
 
-Abrir nueva sesion
+`Abrir nueva sesion`
 
 `git clone https://github.com/WhBeatZ/NgrokWh`
 

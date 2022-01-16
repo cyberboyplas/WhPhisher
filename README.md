@@ -53,15 +53,7 @@ Elegir la página y esperar a que inicie el túneling.
 # - - - Solucion 1 - - -
 
 
--Si ya tiene ngrok instalado, solo tiene que ir a su carpeta donde lo instalo y iniciar el tunneling en el puerto 8080
-
-
-Pero si no lo tiene, tiene que hacer estos pasos:
-
-
 `Abrir nueva sesion`
-
-`git clone https://github.com/WhBeatZ/NgrokWh`
 
 `cd NgrokWh`
 
@@ -69,24 +61,25 @@ Pero si no lo tiene, tiene que hacer estos pasos:
 
 `./ngrokwh.sh`
 
-[![Screenshot-20220116-091839.png](https://i.postimg.cc/HW92dXc7/Screenshot-20220116-091839.png)](https://postimg.cc/3WWpZyZK)
-
 `y`
-
-[![Screenshot-20220116-091856.png](https://i.postimg.cc/kGKQ8yVm/Screenshot-20220116-091856.png)](https://postimg.cc/V0s0PnBG)
 
 `ngrok http 8080`
 
+Compartir el link que nos generó a la víctima :D
+
+Ahora volvemos a la sesion principal, y si alguien puso sus datos, nos saldrán ahí :D 
+
+-Imagenes de demstración:
+
+[![Screenshot-20220116-091839.png](https://i.postimg.cc/HW92dXc7/Screenshot-20220116-091839.png)](https://postimg.cc/3WWpZyZK)
+
+
+[![Screenshot-20220116-091856.png](https://i.postimg.cc/kGKQ8yVm/Screenshot-20220116-091856.png)](https://postimg.cc/V0s0PnBG)
+
+
 [![Screenshot-20220116-091939.png](https://i.postimg.cc/KvKRJy2v/Screenshot-20220116-091939.png)](https://postimg.cc/tYjq4wJL)
 
-Compartir el link que nos generó a la víctima
 
-
-
-
-`Y compartir el link que se generó :D`
-
-Ahora volvemos a la sesion principal, y si alguien puso sus datos, nos saldrás ahí
 
 
 # - - - Solucion 2 - - -
@@ -101,7 +94,7 @@ Pasos:
 
 `ssh -R 80:localhost:8080 nokey@localhost.run`
 
-Compartir el link que se generó
+Compartir el link que se generó :D
 
 # Como debería de quedar
 - Lo verde tapa información personal 

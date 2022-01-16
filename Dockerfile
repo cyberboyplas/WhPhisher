@@ -17,5 +17,5 @@ Python3
 Desarroyando mas herramientas :)
 
 # Comando unico
-python3 whphisher.py
+python3 WhPhisher.py
 

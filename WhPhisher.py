@@ -55,7 +55,7 @@ logo=f'''
 {bpurple}   \ \      / / |__ |  _ \| |__ (_)___| |__   ___ _ __
 {bcyan  }    \ \ /\ / /| '_ \| |_) | '_ \| / __| '_ \ / _ \ '__|
 {bpurple}     \ V  V / | | | |  __/| | | | \__ \ | | |  __/ |
-{bcyan  }      \_/\_/  |_| |_|_|   |_| |_|_|___/_| |_|\___|_|  {bred}v.1.6
+{bcyan  }      \_/\_/  |_| |_|_|   |_| |_|_|___/_| |_|\___|_|  {bred}v.1.7
 
 {byellow}----> {bcyan}By {bwhite}WhBeatZ {bcyan}Instagram {bwhite}WhBeatZ {bcyan}Github {bwhite}WhBeatZ {byellow}<-----
 

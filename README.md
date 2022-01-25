@@ -15,32 +15,20 @@ Para qué hayan menos probabilidades de que falle esta herramienta, se aconseja 
 
 # -- Como instalar --
 
+`pkg install bash`
 
-`termux-setup-storage`
+`pkg install git`
 
-`pkg install proot -y`
-
-`pkg install python3 -y`
-
-`pkg install php -y`
-
-`pkg install git -y`
-
-`pkg install wget -y`
-
-`pkg install ruby -y`
-
-`pkg install unzip -y`
-
-`pkg install curl`
-
-`pkg update & apt upgrade`
-
-`git clone https://github.com/WhBeatZ/WhPhisher`
+`git clone https://github.com/WhBeatZ/WhPhisher.git`
 
 `cd WhPhisher`
 
-`python3 WhPhisher.py`
+`chmod +x *`
+
+`bash requisitoswh.sh`
+
+Esperar a que se instalen y automaticamente se inicia WhPhisher :D
+
 
 [![Virtual-Box-VM-Dib-Vpuj-JG9.png](https://i.postimg.cc/K86wfbyL/Virtual-Box-VM-Dib-Vpuj-JG9.png)](https://postimg.cc/XrgsNTq7)
 

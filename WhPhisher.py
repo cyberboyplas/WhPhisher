@@ -171,13 +171,14 @@ def update():
         upask=input(ask+"Quieres actualizar WhPhisher (recomendado) pulsa [y] para actualizar o [n] para cancelar --> "+bwhite)
         if upask=="y":
             print(nc)
-            system("rm -fr WhPhisher.py && wget https://raw.githubusercontent.com/WhBeatZ/WhPhisher/main/WhPhisher.py")
+            system("rm -rf WhPhisher.py && wget https://raw.githubusercontent.com/WhBeatZ/WhPhisher/main/WhPhisher.py")
+            system("rm -rf NgrokWh")
             system("git clone https://github.com/WhBeatZ/NgrokWh.git")
             system("cd NgrokWh")
             system("chmod +x ngrokwh.sh")
             system("cd ..")
             system("chmod +x WhPhisher.py")
-            system("cd .. && rm -fr .websites")
+            system("cd .. && rm -rf .websites")
             sprint("\n"+success+"WhPhisher se instalo correctamente :)!! Reinicia la terminal :D!\n")
 
             if (changelog != "404: Not Found"):

@@ -39,7 +39,7 @@ bwhite="\033[1;37m"
 
 nc="\033[00m"
 
-version="1.8"
+version="1.9"
 
 ask = bgreen + '[' + bwhite + '-' + bgreen + '] '+ byellow
 success = byellow + '[' + bwhite + '√' + byellow + '] '+bgreen

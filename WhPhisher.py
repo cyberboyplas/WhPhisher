@@ -55,7 +55,7 @@ logo=f'''
 {bpurple}   \ \      / / |__ |  _ \| |__ (_)___| |__   ___ _ __
 {bcyan  }    \ \ /\ / /| '_ \| |_) | '_ \| / __| '_ \ / _ \ '__|
 {bpurple}     \ V  V / | | | |  __/| | | | \__ \ | | |  __/ |
-{bcyan  }      \_/\_/  |_| |_|_|   |_| |_|_|___/_| |_|\___|_|  {bred}v.1.8
+{bcyan  }      \_/\_/  |_| |_|_|   |_| |_|_|___/_| |_|\___|_|  {bred}v.1.9
 
 {byellow}----> {bcyan}By {bwhite}WhBeatZ {bcyan}Instagram {bwhite}WhBeatZ {bcyan}Github {bwhite}WhBeatZ {byellow}<-----
 
@@ -248,7 +248,7 @@ def about():
     system("clear")
     slowprint(logo)
     print(bcyan+'[Nombre de la herramienta]  '+bpurple+' :[WhPhisher] ')
-    print(bcyan+'[Version]   '+bpurple+'                 :[1.8]')
+    print(bcyan+'[Version]   '+bpurple+'                 :[1.9]')
     print(bcyan+'[Author]    '+bpurple+'                 :[WhBeatZ] ')
     print(bcyan+'[Github]    '+bpurple+'                 :[https://github.com/WhBeatZ] ')
     print(bcyan+'[Instagram] '+bpurple+'                 :[WhBeatZ]  ')

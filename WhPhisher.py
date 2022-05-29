@@ -11,8 +11,8 @@ __        ___     ____  _     _     _
   \ V  V / | | | |  __/| | | | \__ \ | | |  __/ |
    \_/\_/  |_| |_|_|   |_| |_|_|___/_| |_|\___|_|
 
-Herramienta para hacer phishing
-No me hago responsable del mal uso que le puedan dar al editar este codigo :v
+Phishing tool
+I am not responsible for the misuse that can be given when editing this code: v
 
 """
 
@@ -57,7 +57,7 @@ logo=f'''
 {bpurple}     \ V  V / | | | |  __/| | | | \__ \ | | |  __/ |
 {bcyan  }      \_/\_/  |_| |_|_|   |_| |_|_|___/_| |_|\___|_|  {bred}v.2.0
 
-{byellow}----> {bcyan}By {bwhite}WhBeatZ {bcyan}Instagram {bwhite}WhBeatZ {bcyan}Github {bwhite}WhBeatZ {byellow}<-----
+{byellow}----> {bcyan}By {bwhite}WhBeatZ {bcyan}Github {bwhite}WhBeatZ {byellow}<-----
 
 {white}- - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 

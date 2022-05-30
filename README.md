@@ -88,7 +88,7 @@ Share the link that was generated :D
 - The green covers personal information
 - The yellow arrow points to the link to be shared
 
-![Pics-Art-12-28-12-04-12.jpg](https://i.postimg.cc/Dw0djMxM/Pics-Art-12-28-12-04-12.jpg)
+<img src="/files/image4~3.jpeg" height="100">
 
 # Result
 

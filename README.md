@@ -88,7 +88,7 @@ Share the link that was generated :D
 - The green covers personal information
 - The yellow arrow points to the link to be shared
 
-<img src="/files/image4~3.jpeg" height="250">
+<img src="/files/image4~3.jpeg" height="400">
 
 # Result
 

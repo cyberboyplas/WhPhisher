@@ -34,7 +34,7 @@ Wait for them to be installed and automatically start WhPhisher :D
 
 Choose the page and wait for the tunneling to start.
 
-[![Virtual-Box-VM-pqnlsb1ey-B.png](https://i.postimg.cc/gJJMyjfj/Virtual-Box-VM-pqnlsb1ey-B.png)](https://postimg.cc/ mcvNBLZW)
+![Virtual-Box-VM-pqnlsb1ey-B.png](https://i.postimg.cc/gJJMyjfj/Virtual-Box-VM-pqnlsb1ey-B.png)
 
 # Solution if the link is not generated or does not work (2 solutions)
 
@@ -59,13 +59,13 @@ Now we return to the main session, and if someone put their data, they will appe
 
 -Demonstration images:
 
-[![Screenshot-20220116-091839.png](https://i.postimg.cc/HW92dXc7/Screenshot-20220116-091839.png)](https://postimg.cc/3WWpZyZK)
+![Screenshot-20220116-091839.png](https://i.postimg.cc/HW92dXc7/Screenshot-20220116-091839.png)
 
 
-[![Screenshot-20220116-091856.png](https://i.postimg.cc/kGKQ8yVm/Screenshot-20220116-091856.png)](https://postimg.cc/V0s0PnBG)
+![Screenshot-20220116-091856.png](https://i.postimg.cc/kGKQ8yVm/Screenshot-20220116-091856.png)
 
 
-[![Screenshot-20220116-091939.png](https://i.postimg.cc/KvKRJy2v/Screenshot-20220116-091939.png)](https://postimg.cc/tYjq4wJL)
+![Screenshot-20220116-091939.png](https://i.postimg.cc/KvKRJy2v/Screenshot-20220116-091939.png)
 
 
 
@@ -88,15 +88,14 @@ Share the link that was generated :D
 - The green covers personal information
 - The yellow arrow points to the link to be shared
 
-[![Pics-Art-12-28-12-04-12.jpg](https://i.postimg.cc/Dw0djMxM/Pics-Art-12-28-12-04-12.jpg)]( https://postimg.cc/yDqZWv4m)
+![Pics-Art-12-28-12-04-12.jpg](https://i.postimg.cc/Dw0djMxM/Pics-Art-12-28-12-04-12.jpg)
 
 # Result
 
 - The link you sent to the victim:
 
-[![chrome-NQpwa-Yi-Wxc.png](https://i.postimg.cc/mrxzN5JH/chrome-NQpwa-Yi-Wxc.png)](https://postimg.cc/k2cg7fnJ)
+![chrome-NQpwa-Yi-Wxc.png](https://i.postimg.cc/mrxzN5JH/chrome-NQpwa-Yi-Wxc.png)
 
 When the victim puts her credentials, they arrive in the terminal:
 
-[![Virtual-Box-VM-t1m8-G0-J0-MQ.png](https://i.postimg.cc/wjj0Y7jV/Virtual-Box-VM-t1m8-G0-J0-MQ.png)]( https://postimg.cc/4mjzz4t7)
-
+![Virtual-Box-VM-t1m8-G0-J0-MQ.png](https://i.postimg.cc/wjj0Y7jV/Virtual-Box-VM-t1m8-G0-J0-MQ.png)

@@ -30,7 +30,7 @@ To make this tool less likely to fail, it is advised to install the latest versi
 Wait for them to be installed and automatically start WhPhisher :D
 
 
-[![Virtual-Box-VM-Dib-Vpuj-JG9.png](https://i.postimg.cc/K86wfbyL/Virtual-Box-VM-Dib-Vpuj-JG9.png)](https:// postimg.cc/XrgsNTq7)
+![Virtual-Box-VM-Dib-Vpuj-JG9.png](https://i.postimg.cc/K86wfbyL/Virtual-Box-VM-Dib-Vpuj-JG9.png)
 
 Choose the page and wait for the tunneling to start.
 

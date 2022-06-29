@@ -154,10 +154,9 @@ case $opcion in
              echo
              clear
              sleep 1
-             echo -e "${amarillo}La instalacion se completo perfectamente :D, no olvides seguirme en mi Instagram --> ${blanco}WhBeatZ"
-             echo
-             sleep 3
-             exit
+             echo -e "${amarillo}- ${verde}Instalacion completada, iniciando WhPhisher..."
+             sleep 2
+             python3 WhPhisher.py
              ;;
              
              2. | 2)
@@ -254,16 +253,16 @@ case $opcion in
              apt install nodejs -y
              apt install vim -y
              echo -e "$verde"
-             echo -e "$cyan -$amarillo Actualizando repositorios instalados..."
+             echo -e "$cyan -$cyan Actualizando repositorios instalados..."
              echo -e "$verde"
              sleep 2
              apt update -y
              echo
              clear
              sleep 1
-             echo -e "${amarillo}La instalacion se completo perfectamente :D, no olvides seguirme en mi Instagram --> ${blanco}WhBeatZ"
-             echo
-             sleep 3
+             echo -e "${amarillo}- ${verde}Instalacion completada, iniciando WhPhisher..."
+             sleep 2
+             python3 WhPhisher.py
              exit
              ;;
              
@@ -368,9 +367,9 @@ case $opcion in
              echo
              clear
              sleep 1
-             echo -e "${amarillo}La instalacion se completo perfectamente :D, no olvides seguirme en mi Instagram --> ${blanco}WhBeatZ"
-             echo
-             sleep 3
+             echo -e "${amarillo}- ${verde}Instalacion completada, iniciando WhPhisher..."
+             sleep 2
+             python3 WhPhisher.py
              exit
              ;;
              
@@ -475,9 +474,9 @@ case $opcion in
              echo
              clear
              sleep 1
-             echo -e "${amarillo}La instalacion se completo perfectamente :D, no olvides seguirme en mi Instagram --> ${blanco}WhBeatZ"
-             echo
-             sleep 3
+             echo -e "${amarillo}- ${verde}Instalacion completada, iniciando WhPhisher..."
+             sleep 2
+             python3 WhPhisher.py
              exit
              ;;
 esac

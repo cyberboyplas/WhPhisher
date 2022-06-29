@@ -25,7 +25,7 @@ To make this tool less likely to fail, it is advised to install the latest versi
 
 `chmod +x *`
 
-`bash requirementswh.sh`
+`bash requisitoswh.sh`
 
 Wait for them to be installed and automatically start WhPhisher :D
 

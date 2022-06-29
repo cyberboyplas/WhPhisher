@@ -9,9 +9,9 @@
 # Sistemas operativos :)
 Termux
 Kali Linux
-Debia 10.0
+Debian 11.3
 # Package
-Python3 
+Python3
 
 # Informacion de Autor :)
 Desarroyando mas herramientas :)

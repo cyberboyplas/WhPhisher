@@ -1,6 +1,6 @@
 
 
-1. La cagué sin querer en la actualizacion 2.3, si lo inicias y te sale que hay una actializacion repetitivamente. Elimina el repositorio y vuevlvelo a instalar.
+1. La cagué sin querer en la actualizacion 2.1, 2.2, y 2.3 si lo inicias y te sale que hay una actializacion repetitivamente. Elimina el repositorio y vuevlvelo a instalar.
 si tienes duda de como, ejecuta este comando y ya quedara sin errores:
 
-cd .. ; rm -rf WhPhisher ; git clone github.com/WhBeatZ/WhPhisher.git ; cd WhPhisher ; python3 WhPhisher.py
+cd .. && rm -rf WhPhisher && git clone github.com/WhBeatZ/WhPhisher.git && cd WhPhisher && python3 WhPhisher.py

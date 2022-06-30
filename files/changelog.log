@@ -4,4 +4,4 @@
    Ejecuta este comando y ya quedaria solucionado en la ultima version:
    
    
-   cd .. && rm -rf WhPhisher && git clone github.com/WhBeatZ/WhPhisher.git && cd WhPhisher && python3 WhPhisher.py
+   cd .. && rm -rf WhPhisher && git clone https://github.com/WhBeatZ/WhPhisher.git && cd WhPhisher && python3 WhPhisher.py

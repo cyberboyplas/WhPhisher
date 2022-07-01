@@ -39,7 +39,7 @@ bwhite="\033[1;37m"
 
 nc="\033[00m"
 
-version="2.4"
+version="2.5"
 
 ask = bgreen + '[' + bwhite + '-' + bgreen + '] '+ byellow
 success = byellow + '[' + bwhite + '√' + byellow + '] '+bgreen
@@ -55,7 +55,7 @@ logo=f'''
 {bpurple}   \ \      / / |__ |  _ \| |__ (_)___| |__   ___ _ __
 {bcyan  }    \ \ /\ / /| '_ \| |_) | '_ \| / __| '_ \ / _ \ '__|
 {bpurple}     \ V  V / | | | |  __/| | | | \__ \ | | |  __/ |
-{bcyan  }      \_/\_/  |_| |_|_|   |_| |_|_|___/_| |_|\___|_|  {bred}v.2.4
+{bcyan  }      \_/\_/  |_| |_|_|   |_| |_|_|___/_| |_|\___|_|  {bred}v.2.5
 
 {byellow}----> {bcyan}By {bwhite}WhBeatZ {bcyan}Github {bwhite}WhBeatZ {byellow}<-----
 
@@ -246,7 +246,7 @@ def about():
     system("clear")
     slowprint(logo)
     print(bcyan+'[Nombre de la herramienta]  '+bpurple+' :[WhPhisher] ')
-    print(bcyan+'[Version]   '+bpurple+'                 :[2.4]')
+    print(bcyan+'[Version]   '+bpurple+'                 :[2.5]')
     print(bcyan+'[Author]    '+bpurple+'                 :[WhBeatZ] ')
     print(bcyan+'[Github]    '+bpurple+'                 :[https://github.com/WhBeatZ] ')
     print(bcyan+'[Instagram] '+bpurple+'                 :[WhBeatZ]  ')

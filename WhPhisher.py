@@ -171,11 +171,7 @@ def update():
         upask=input(ask+"Quieres actualizar WhPhisher (recomendado) pulsa [y] para actualizar o [n] para cancelar --> "+bwhite)
         if upask=="y":
             print(nc)
-            system("cd ..")
-            system("git clone https://github.com/WhBeatZ/WhPhisher")
-            system("cd WhPhisher")
-            system("chmod +x WhPhisher.py")            
-            system("cd .. && rm -rf .websites")
+            system("cd .. && rm -rf WhPhisher && git clone https://github.com/WhBeatZ/WhPhisher.git && cd WhPhisher && python3 WhPhisher.py")
             sprint("\n"+success+"WhPhisher se instalo correctamente :)!! Reinicia la terminal :D!\n")
 
             if (changelog != "404: Not Found"):

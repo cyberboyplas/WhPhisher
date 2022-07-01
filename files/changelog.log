@@ -1,7 +1,7 @@
 
 
-1. La cagué sin querer en la actualizacion 2.1, 2.2, y 2.3 si lo inicias y te sale que hay una actializacion repetitivamente.
-   Ejecuta este comando y ya quedaria solucionado en la ultima version:
+1. La cagué sin querer en la actualizacion 2.1, 2.2, y 2.3, 2.4 y 2.5 xd si lo inicias y te sale que hay una actializacion repetitivamente.
+   Ejecuta este comando y ya quedaria solucionado en su ultima version:
    
    
    cd .. && rm -rf WhPhisher && git clone https://github.com/WhBeatZ/WhPhisher.git && cd WhPhisher && python3 WhPhisher.py

@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 # Herramienta  : WhPhisher
-# Author       : WhBeatZ
+# Author       : W
 """
 
 {
@@ -57,7 +57,7 @@ logo=f'''
 {bpurple}     \ V  V / | | | |  __/| | | | \__ \ | | |  __/ |
 {bcyan  }      \_/\_/  |_| |_|_|   |_| |_|_|___/_| |_|\___|_|  {bred}v.2.5
 
-{byellow}----> {bcyan}By {bwhite}WhBeatZ {bcyan}Github {bwhite}WhBeatZ {byellow}<-----
+{byellow}----> {bcyan}By {bwhite}Uvedoble {bcyan}Github {bwhite}WhBeatZ {byellow}<-----
 
 {white}- - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -233,7 +233,7 @@ def cuask(url):
 # Polite Exit
 def pexit():
     killer()
-    sprint("\n"+info2+bcyan+"Gracias por usar " +bwhite+ "WhPhisher! " +bcyan+ "Sigueme en mi Insta, para mas herramientas o dudas :D " +byellow+ "--> " +bwhite+ "WhBeatZ" +bcyan+ " :D\n"+nc)
+    sprint("\n"+info2+bcyan+"Gracias por usar " +bwhite+ "WhPhisher! " +bcyan+ "By uvedoble" +byellow+ "--> " +bwhite+ "WhBeatZ" +bcyan+ " :D\n"+nc)
     exit(0)
 
 
